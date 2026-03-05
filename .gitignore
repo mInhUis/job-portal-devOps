@@ -1,0 +1,13 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Node.js files
+node_modules/
+.env
+
+# MacOS/Windows junk
+.DS_Store
+Thumbs.db
